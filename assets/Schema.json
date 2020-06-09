@@ -1,0 +1,570 @@
+{
+   "schema": {
+      "title": "A registration form",
+      "type": "object",
+      "properties": {
+         "Name": {
+            "type": "object",
+            "title": "Name",
+            "properties": {
+               "english": {
+                  "type": "string",
+                  "title": "English"
+               },
+               "marathi": {
+                  "type": "string",
+                  "title": "Marathi"
+               }
+            }
+         },
+         "JobProfile": {
+            "type": "object",
+            "title": "JobProfile",
+            "properties": {
+               "english": {
+                  "type": "string",
+                  "title": "English"
+               },
+               "marathi": {
+                  "type": "string",
+                  "title": "Marathi"
+               }
+            }
+         },
+         "Facebook": {
+            "type": "string",
+            "title": "Facebook Link"
+         },
+         "Instagram": {
+            "type": "string",
+            "title": "Instagram Link"
+         },
+         "Email": {
+            "type": "string",
+            "title": "Email"
+         },
+         "CompanyLink": {
+            "type": "string",
+            "title": "Company Link"
+         },
+         "CompanyExperience": {
+            "type": "string",
+            "title": "Company Experience"
+         },
+         "CompanyName": {
+            "type": "object",
+            "title": "Company Name",
+            "properties": {
+               "english": {
+                  "type": "string",
+                  "title": "English"
+               },
+               "marathi": {
+                  "type": "string",
+                  "title": "Marathi"
+               }
+            }
+         },
+         "Hobby": {
+            "type": "object",
+            "title": "Hobbies",
+            "properties": {
+               "english": {
+                  "type": "string",
+                  "title": "English"
+               },
+               "marathi": {
+                  "type": "string",
+                  "title": "Marathi"
+               }
+            }
+         },
+         "PersonalInformation": {
+            "type": "object",
+            "title": "Personal Information",
+            "properties": {
+               "FullName": {
+                  "type": "object",
+                  "title": "Full Name",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "DateOfBirth": {
+                  "type": "object",
+                  "title": "Date Of Birth",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "BirthPlace": {
+                  "type": "object",
+                  "title": "Birth Place",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "BirthTime": {
+                  "type": "object",
+                  "title": "Birth Time",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "Color": {
+                  "type": "object",
+                  "title": "Color",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "Height": {
+                  "type": "object",
+                  "title": "Height",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "BloodGroup": {
+                  "type": "object",
+                  "title": "Blood Group",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "Gotra": {
+                  "type": "object",
+                  "title": "Gotra",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "Gan": {
+                  "type": "object",
+                  "title": "Gan",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "Devak": {
+                  "type": "object",
+                  "title": "Devak",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "Ras": {
+                  "type": "object",
+                  "title": "Ras",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "Kuldaivat": {
+                  "type": "object",
+                  "title": "Kuldaivat",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "RasName": {
+                  "type": "object",
+                  "title": "Ras Name",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "Caste": {
+                  "type": "object",
+                  "title": "Caste",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               }
+            }
+         },
+         "Qualification": {
+            "type": "object",
+            "title": "Qualification",
+            "properties": {
+               "Education": {
+                  "type": "object",
+                  "title": "Education",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "Job": {
+                  "type": "object",
+                  "title": "Job",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "Salary": {
+                  "type": "object",
+                  "title": "Salary",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               }
+            }
+         },
+         "FamilyInformation": {
+            "type": "object",
+            "title": "Family Information",
+            "properties": {
+               "GrandfatherName": {
+                  "type": "object",
+                  "title": "Grandfather Name",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "GrandmotherName": {
+                  "type": "object",
+                  "title": "Grandmother Name",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "FatherName": {
+                  "type": "object",
+                  "title": "Father Name",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "MotherName": {
+                  "type": "object",
+                  "title": "Mother Name",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "SisterName": {
+                  "type": "object",
+                  "title": "Sister Name",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "BrotherName": {
+                  "type": "object",
+                  "title": "Brother Name",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "Uncle": {
+                  "type": "object",
+                  "title": "Uncle",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "Mama": {
+                  "type": "object",
+                  "title": "Mama",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "Aatya": {
+                  "type": "object",
+                  "title": "Aatya",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "Mavshi": {
+                  "type": "object",
+                  "title": "Mavshi",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "Relatives": {
+                  "type": "object",
+                  "title": "Relatives",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               }
+            }
+         },
+         "ContactMe": {
+            "type": "object",
+            "title": "Contact Me",
+            "properties": {
+               "EmailId": {
+                  "type": "object",
+                  "title": "Email Id",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               },
+               "MobileNo": {
+                  "type": "object",
+                  "title": "Mobile No",
+                  "properties": {
+                     "english": {
+                        "type": "string",
+                        "title": "English"
+                     },
+                     "marathi": {
+                        "type": "string",
+                        "title": "Marathi"
+                     }
+                  }
+               }
+            }
+         },
+         "Photos": {
+            "type": "object",
+            "title": "Photos",
+            "properties": {
+               "ProfilePhotoName": {
+                  "type": "string",
+                  "title": "Profile Photo",
+                  "default": "assets/Profile.jpg"
+               },
+               "GalleryPhoto": {
+                  "type": "object",
+                  "title": "Gallery Photo",
+                  "properties": {
+                     "Photo1": {
+                        "type": "string",
+                        "title": "Photo1",
+                        "default": "assets/G(1).jpg"
+                     },
+                     "Photo2": {
+                        "type": "string",
+                        "title": "Photo2",
+                        "default": "assets/G(2).jpg"
+                     },
+                     "Photo3": {
+                        "type": "string",
+                        "title": "Photo3",
+                        "default": "assets/G(3).jpg"
+                     },
+                     "Photo4": {
+                        "type": "string",
+                        "title": "Photo4",
+                        "default": "assets/G(4).jpg"
+                     },
+                     "Photo5": {
+                        "type": "string",
+                        "title": "Photo5",
+                        "default": "assets/G(5).jpg"
+                     }
+                  }
+               }
+            }
+         }
+      }
+   }
+}
